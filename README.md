@@ -1,4 +1,4 @@
-# " Hello Microverse (repetition)" project
+# "Hello Microverse (repetition)" project
 
 > This is my mobile version of "Portfolio" project based on the Microverse student's template.
 
