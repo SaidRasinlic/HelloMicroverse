@@ -2,7 +2,7 @@
 
 > Hello Microverse repetition project
 
-![screenshot](app_screenshot.png)
+![screenshot](HelloMicroverse.png)
 
 Additional description about the project and its features.
 
