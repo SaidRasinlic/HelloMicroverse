@@ -1,8 +1,8 @@
 # "Hello Microverse (repetition)" project
 
-> This is my mobile version of "Portfolio" project based on the Microverse student's template.
+> Hello Microverse repetition project
 
-![screenshot](app_screenshot.png)
+![screenshot](HelloMicroverse.png)
 
 Additional description about the project and its features.
 
@@ -14,14 +14,10 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/SaidRasinlic/HelloMicroversePortfolio/main/index.html)
+[Live Demo Link](https://raw.githack.com/SaidRasinlic/HelloMicroverseRepetition/feature-branch/index.html)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -31,7 +27,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-- gh repo clone SaidRasinlic/HelloMicroversePortfolio
+- gh repo clone SaidRasinlic/HelloMicroverseRepetition
 
 ## Authors
 
