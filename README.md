@@ -1,6 +1,6 @@
 # "Hello Microverse (repetition)" project
 
-> This is my mobile version of "Portfolio" project based on the Microverse student's template.
+> Hello Microverse repetition project
 
 ![screenshot](app_screenshot.png)
 
