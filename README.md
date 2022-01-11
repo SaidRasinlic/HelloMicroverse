@@ -14,7 +14,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/SaidRasinlic/HelloMicroversePortfolio/main/index.html)
+[Live Demo Link](https://raw.githack.com/SaidRasinlic/HelloMicroverseRepetition/main/index.html)
 
 
 ## Getting Started
@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-- gh repo clone SaidRasinlic/HelloMicroversePortfolio
+- gh repo clone SaidRasinlic/HelloMicroverseRepetition
 
 ## Authors
 
