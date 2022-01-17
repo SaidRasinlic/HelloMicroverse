@@ -1,6 +1,6 @@
-# "Hello Microverse (repetition)" project
+# "Hello Microverse" project
 
-> Hello Microverse repetition project
+> Hello Microverse project is the first Microverse project.
 
 ![screenshot](HelloMicroverse.png)
 
